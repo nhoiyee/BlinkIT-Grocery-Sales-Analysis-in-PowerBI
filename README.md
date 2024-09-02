@@ -14,7 +14,9 @@ https://app.powerbi.com/view?r=eyJrIjoiN2JkZGU3ZjMtOGVhMy00MWJjLTgyZTYtZGQ3OWNkO
 ## KPI requirement
 
 **Total sales:** The overall revenue generated from all items sold.
+
 **Average sales:** The average revenue per sale.
+
 **Number of items:** The total count of different
 items sold.
 
@@ -46,7 +48,7 @@ influences total sales.
 **Total sales by outlet location:** 
 - Assess the geographic distribution of sales across different locations.
 
-## matrix card
+## Matrix card
 **all metrics by outlet type:** 
 - Provide a comprehensive view of all key metrics (Total sales, average sales, number of items, 
 average rating) broken down by different outlet types.

@@ -5,7 +5,7 @@ This visualization is all about uncovering actionable business intelligence to m
 # Project Objective
 
 ## Objective:
-The primary goal of this Power BI project is to conduct a comprehensive analysis of BlinkIT Grocery sales perfomance, customersatisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
+The primary goal of this Power BI project is to conduct a comprehensive analysis of BlinkIT Grocery sales perfomance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 
 **Live dashboard:** 

@@ -24,31 +24,31 @@ items sold.
 
 # Chart Objective
 ## Donut chart
-**Total sales by fat content:** 
+**1. Total sales by fat content:** 
 - Analyze the impact of fat content on total sales.
 
 ## Bar chart
-**Total sales by item type:** 
+**2. Total sales by item type:** 
 - Identify the performance of different item type in terms of total sales.
 
 ## Stacked column chart
-**Fat content by outlet for total sales:** 
+**3. Fat content by outlet for total sales:** 
 - Compare total sales across different outlets segmented by fat content.
 
 ## Line chart
-**Total sales by outlet establishment:** 
+**4. Total sales by outlet establishment:** 
 - Evaluate how the age or type of outlet establishment
 influences total sales.
 
 ## Donut/ Pie chart
-**Total sales by outlet size:** 
+**5. Total sales by outlet size:** 
 - Analyze the correlation between outlet size and total sales.
 
 ## Donut/ Pie chart
-**Total sales by outlet location:** 
+**6. Total sales by outlet location:** 
 - Assess the geographic distribution of sales across different locations.
 
 ## Matrix card
-**all metrics by outlet type:** 
+**7. All metrics by outlet type:** 
 - Provide a comprehensive view of all key metrics (Total sales, average sales, number of items, 
 average rating) broken down by different outlet types.
